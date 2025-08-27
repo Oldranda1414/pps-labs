@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "cmake.configureOnOpen": false,
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
